@@ -1,5 +1,11 @@
 # TypeScript React Starter
 
+Quick start:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/biilmann/TypeScript-React-Starter)
+
+# Manual Setup
+
 This quick start guide will teach you how to wire up TypeScript with [React](http://facebook.github.io/react/).
 By the end, you'll have
 
